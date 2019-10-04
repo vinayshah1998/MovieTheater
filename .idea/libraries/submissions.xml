@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="submissions">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project6_compileError.zip!/" />
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project6_someTestsFailure.zip!/" />
+      <root url="jar://$PROJECT_DIR$/grading/submissions/Project6_submissionStructureError.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
